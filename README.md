@@ -1,2 +1,2 @@
 # Landing page startup
-landing page practice with email signup form
+landing page with email signup form
